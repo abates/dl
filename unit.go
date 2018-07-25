@@ -1,5 +1,5 @@
 //go:generate go run internal/autogen_types.go
-package main
+package dl
 
 import (
 	"fmt"

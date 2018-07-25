@@ -1,4 +1,4 @@
-package main
+package dl
 
 // SampleDemuxer will read a parse stream and demultiplex the samples into
 // time slices. These timeslices will be represented as Epochs

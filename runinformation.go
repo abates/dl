@@ -1,5 +1,5 @@
 //go:generate stringer -type=StartMethod,StopMethod,PreTriggerLoopMethod,AutoMethod,TrackMarkerFailureCode
-package main
+package dl
 
 import (
 	"fmt"

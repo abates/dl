@@ -1,4 +1,4 @@
-package main
+package dl
 
 type Sector struct {
 	epochs []Epoch

@@ -1,5 +1,5 @@
 //go:generate stringer -type=Channel -linecomment=true
-package main
+package dl
 
 // Channel is the data channel that a data frame (in the serial stream) represents
 type Channel int
